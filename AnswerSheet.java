@@ -1,6 +1,7 @@
 public class AnswerSheet{
 
-	private String answer;//pig添加了一行注释
+
+	private String answer;//pig添加了一行注释 pig同事添加了一行注释
 	private String name;
 
 	private int age;
