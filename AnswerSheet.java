@@ -5,4 +5,5 @@ public class AnswerSheet{
 
 	private int age;
 	private double sal;
+	private char gender;
 }
