@@ -4,4 +4,5 @@ public class AnswerSheet{
 	private String name;
 
 	private int age;
+	private double sal;
 }
