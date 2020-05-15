@@ -1,6 +1,6 @@
 public class AnswerSheet{
 
-	private String answer;
+	private String answer;//pig添加了一行注释
 	private String name;
 
 	private int age;
